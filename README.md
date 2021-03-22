@@ -1,2 +1,2 @@
 # Shell
-Automation Shell commands for Linux 
+Automation Shell commands for Linux. 

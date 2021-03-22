@@ -1,2 +1,2 @@
 # Shell
-automation shell commands 
+Automation Shell commands 
